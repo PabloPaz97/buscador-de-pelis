@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Harry Potter and the Magic Stone",
+      "rating": 4.5,
+      "tags": ["fantasy", "magic", "adventure"]
+    },
+    {
+      "title": "The Dark Knight",
+      "rating": 5,
+      "tags": ["action", "thriller"]
+    },
+    {
+      "title": "La La Land",
+      "rating": 4,
+      "tags": ["romance", "music"]
+    }
+  ]
+  
